@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on projects that will help build up my journey 
 - 📫 How to reach me ... instagram @yvnkson
 - 😄 Pronouns: ... him
-- ⚡ Fun fact: ... i play the piano 
+- ⚡ Fun fact: ... i play the piano
+
+- i will be posting more of my projects soon 
 
 <!---
 j1mulla/j1mulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
